@@ -6,10 +6,6 @@ Here are a tiny specs into my life...
 - 💻 I’m looking to collaborate on web scraping projects and open AI.
 - ✨ I like exploring new places :)
 
-<!---
-KoalaisMad/KoalaisMad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 <!---
