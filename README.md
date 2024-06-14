@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KoalaisMad
-- 👀 I’m interested in backend programming, sketching, and more.
-- 🌱 I’m currently learning SQL and C++.
+- 👋 Hi, I’m Jyo Madhavarapu
+- 👀 I’m interested in backend programming, sketching, web devlopment and more.
+- 🌱 I’m currently learning JS and C++.
 - 💞️ I’m looking to collaborate on web scraping projects and open AI.
 - 📫 How to reach me @jyo.mad
 
