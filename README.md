@@ -1,8 +1,8 @@
 👋 Hola, I’m Jyo Madhavarapu, a computer science student at Texas A&M University.
 
 Here are a tiny specs into my life...
-- 👀 I’m interested in backend programming, sketching, and web designing.
-- 🌱 I’m currently learning ReactJS and C++.
+- 👀 I’m interested in data science and ML, sketching, and web designing.
+- 🌱 I’m currently learning ReactJS, Haskell and C++.
 - 💻 I’m looking to collaborate on web scraping projects and open AI.
 - ✨ I like exploring new places :)
 
