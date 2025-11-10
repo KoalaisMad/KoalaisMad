@@ -1,6 +1,6 @@
 👋 Hola, I’m Jyo Madhavarapu, a computer science student at Texas A&M University.
 
-<img src="https://raw.githubusercontent.com/KoalaisMad/KoalaisMad/main/assets/ .gif" width="250" alt="Koala GIF" align ="right" />
+<img src="https://raw.githubusercontent.com/KoalaisMad/KoalaisMad/main/assets/ .gif?nocache=1" width="250" alt="Koala GIF" align ="right" />
 
 Here are a tiny specs into my life...
 - 👀 I’m interested in data science and ML, and web designing.
