@@ -44,6 +44,6 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=koalaisMad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-Note: Gif artist unknow but cool :)
+Note: GIF artist is unknown but cool :)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
