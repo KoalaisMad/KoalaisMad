@@ -1,10 +1,10 @@
 👋 Hola, I’m Jyo Madhavarapu, a computer science student at Texas A&M University.
 
 Here are a tiny specs into my life...
-- 👀 I’m interested in data science and ML, sketching, and web designing.
-- 🌱 I’m currently learning ReactJS, Haskell and C++.
-- 💻 I’m looking to collaborate on web scraping projects and open AI.
-- ✨ I like exploring new places :)
+- 👀 I’m interested in data science and ML, and web designing.
+- 🌱 I’m currently learning Relational DataBases and Advanced Algorithms.
+- 💻 I’m looking to collaborate on data-driven web platforms and automation pipelines for large-scale datasets.
+- ✨ I like exploring new places and sketching :)
 
 
 
