@@ -6,6 +6,9 @@ Here are a tiny specs into my life...
 - 💻 I’m looking to collaborate on data-driven web platforms and automation pipelines for large-scale datasets.
 - ✨ I like exploring new places and sketching :)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/octodex/master/images/NUX_Octodex.gif" width="220" />
+</p>
 
 
 <!---
