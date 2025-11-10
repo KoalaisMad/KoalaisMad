@@ -1,15 +1,12 @@
 👋 Hola, I’m Jyo Madhavarapu, a computer science student at Texas A&M University.
 
+<img src="https://raw.githubusercontent.com/KoalaisMad/KoalaisMad/main/assets/ .gif" width="250" alt="Koala GIF" align ="right" />
+
 Here are a tiny specs into my life...
 - 👀 I’m interested in data science and ML, and web designing.
 - 🌱 I’m currently learning Relational DataBases and Advanced Algorithms.
 - 💻 I’m looking to collaborate on data-driven web platforms and automation pipelines for large-scale datasets.
 - ✨ I like exploring new places and sketching :)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/octodex/master/images/NUX_Octodex.gif" width="220" />
-</p>
-
 
 <!---
 KoalaisMad/KoalaisMad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,7 +36,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=koalaisMad&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
@@ -48,5 +44,6 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=koalaisMad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+Note: Gif artist unknow but cool :)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
