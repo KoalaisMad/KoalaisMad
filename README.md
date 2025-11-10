@@ -44,7 +44,6 @@ You can click the Preview link to take a look at your changes.
 ---
 [![](https://visitcount.itsvg.in/api?id=koalaisMad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
