@@ -8,13 +8,17 @@ Here are a tiny specs into my life...
 - 💻 I’m looking to collaborate on data-driven web platforms and automation pipelines for large-scale datasets.
 - ✨ I like exploring new places and sketching :)
 
-<!---
-KoalaisMad/KoalaisMad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/goofy_jyo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jyo.mad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyoshitha-madhavarapu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhavarapujyo@gmail.com) 
-[![Views](https://img.shields.io/badge/Views-%23E4405F.svg?logo=Views&logoColor=white)](https://komarev.com/ghpvc/?username=KoalaisMad&style=for-the-badge&color=Fc8EAC)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/goofy_jyo)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/jyo.mad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyoshitha-madhavarapu)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:madhavarapujyo@gmail.com)
+[![Profile](https://img.shields.io/badge/Profile-%239289DA.svg?logo=profile&logoColor=white)](https://jyomad.ink)
+<a href="https://github.com/KoalaisMad">
+  <img src="https://komarev.com/ghpvc/?username=KoalaisMad&label=Profile%20Views&color=fc8eac&style=flat" height="28" />
+</a>
+
 
 >> jyomad.ink
 
