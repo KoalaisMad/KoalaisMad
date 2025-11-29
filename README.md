@@ -43,8 +43,8 @@ Here are a tiny specs into my life...
 </p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=koalaisMad&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=koalaisMad&theme=radical&no-frame=true&no-bg=false&margin-w=4)-->
 
 
 ---
