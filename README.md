@@ -33,11 +33,11 @@ Here are a tiny specs into my life...
     width="49%" 
   />
   &nbsp;&nbsp;&nbsp;
-  <img 
+  <!-- <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=koalaisMad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
     alt="Top Languages" 
     width="35%" 
-  />
+  /> -->
 </p>
 
 
